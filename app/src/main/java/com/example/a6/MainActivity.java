@@ -11,9 +11,11 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     TextView textView;
-    String txt1=" this is txt 1";
-
-
+    String txt1=" 10초후 종료 ";
+    String txt2=" this is txt 2";
+    String txt3=" this is txt 3";
+    String txt4=" this is txt 4";
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
             try {
 
-            Thread.sleep(5000);
+            Thread.sleep(10000);
 
         }
         catch (Exception e) {
