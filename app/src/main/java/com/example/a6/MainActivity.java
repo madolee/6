@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         /**
-         * String 배열 ArrayList 변환 1
+         * String 배열 ArrayList 변환 1 정말  푸시 하기 힘드네
          */
 
         for (int i = 0; i < str_arrary.length; i++) {
