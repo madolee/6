@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     TextView textView;
-    String txt1=" 10초후 종료 ";
+    String txt1=" 10초후 종료하지마 ";
     String txt2=" this is txt 2";
     String txt3=" this is txt 3";
     String txt4=" this is txt 4";
