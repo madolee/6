@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 /**
- *
+ *  sacom must see this message
  *
  *
  try {
